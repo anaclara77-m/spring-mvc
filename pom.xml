@@ -70,6 +70,12 @@
             <version>1.18.40</version>
             <scope>provided</scope>
         </dependency>
+
+        <dependency>
+            <artifactId></artifactId>
+            <groupId></groupId>
+            <version>3.2.0</version>
+        </dependency>
     </dependencies>
 
     <properties>
